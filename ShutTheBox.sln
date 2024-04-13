@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShutTheBox", "ShutTheBox.csproj", "{408B5E37-8102-4B7A-9049-E6B1D939E390}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{408B5E37-8102-4B7A-9049-E6B1D939E390}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{408B5E37-8102-4B7A-9049-E6B1D939E390}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{408B5E37-8102-4B7A-9049-E6B1D939E390}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{408B5E37-8102-4B7A-9049-E6B1D939E390}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD45C188-092F-42BA-8D88-2645BA057E3F}
+	EndGlobalSection
+EndGlobal
